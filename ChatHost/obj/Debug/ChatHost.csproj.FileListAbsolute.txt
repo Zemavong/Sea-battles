@@ -1,0 +1,12 @@
+C:\Users\Stepan\source\repos\Sea-battle\ChatHost\obj\Debug\ChatHost.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stepan\source\repos\Sea-battle\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+C:\Users\Stepan\source\repos\Sea-battle\ChatHost\bin\Debug\ChatHost.exe.config
+C:\Users\Stepan\source\repos\Sea-battle\ChatHost\bin\Debug\ChatHost.exe
+C:\Users\Stepan\source\repos\Sea-battle\ChatHost\bin\Debug\ChatHost.pdb
+C:\Users\Stepan\source\repos\Sea-battle\ChatHost\bin\Debug\wcf-chat.dll
+C:\Users\Stepan\source\repos\Sea-battle\ChatHost\bin\Debug\wcf-chat.pdb
+C:\Users\Stepan\source\repos\Sea-battle\ChatHost\bin\Debug\wcf-chat.dll.config
+C:\Users\Stepan\source\repos\Sea-battle\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+C:\Users\Stepan\source\repos\Sea-battle\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+C:\Users\Stepan\source\repos\Sea-battle\ChatHost\obj\Debug\ChatHost.exe
+C:\Users\Stepan\source\repos\Sea-battle\ChatHost\obj\Debug\ChatHost.pdb
